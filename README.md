@@ -1,6 +1,6 @@
 # assign_mentor
 
-Heroku URL: https://assign-mentor-app.herokuapp.com
+Heroku URL: 
 
 ## End Points:
 
